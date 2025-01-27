@@ -1,6 +1,4 @@
-# Overall README
-
-## eCommerce Assignment
+# eCommerce Data Analysis
 
 This repository contains the solutions to the eCommerce data science assignment, divided into three main tasks:
 1. **Task 1: Exploratory Data Analysis (EDA)**
